@@ -20,6 +20,3 @@ def sqrt(x):
 if __name__ == "__main__":
     print("Простой калькулятор запущен.")
     print(f"2 + 2 = {add(2, 2)}")
-    print(f"2 - 2 = {subtract(2, 2)}")
-    print(f"2 * 2 = {multiply(2, 2)}")
-    print(f"Корень из 4 = {sqrt(4)}")
