@@ -16,6 +16,7 @@ def sqrt(x):
         raise ValueError("Нельзя извлечь корень из отрицательного числа")
     return int(math.sqrt(x))
 
+
 import math
 if __name__ == "__main__":
     print("Простой калькулятор запущен.")
