@@ -3,13 +3,10 @@ import math
 def add(a, b):
     return a + b
 
-
 def subtract(a, b):
     return a - b
 
-
 def multiply(a, b):
-    # TODO: не реализовано
     return a * b
 
 def sqrt(x):
@@ -18,3 +15,5 @@ def sqrt(x):
 if __name__ == "__main__":
     print("Простой калькулятор запущен.")
     print(f"2 + 2 = {add(2, 2)}")
+
+# финальный коммит
